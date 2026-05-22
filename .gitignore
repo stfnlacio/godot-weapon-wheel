@@ -1,0 +1,4 @@
+# Godot 4.x specific ignores
+.godot/
+*.translation
+node_modules/
